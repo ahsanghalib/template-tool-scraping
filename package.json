@@ -1,0 +1,16 @@
+{
+  "name": "scraping-template-tool-de",
+  "version": "1.0.0",
+  "description": "web scrapping tool of templete tools de",
+  "main": "index.js",
+  "author": "Muhammad Ashan <ahsanghalib@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
